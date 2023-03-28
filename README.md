@@ -18,3 +18,5 @@ scikit-learn
 CNN Network
 Gender Accuracy: 100.00 Age MAE: 6.5
 
+# IDE
+Kaggle notebook
